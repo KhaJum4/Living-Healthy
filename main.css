@@ -1,0 +1,275 @@
+body{
+    background: rgb(138,215,120);
+    background: linear-gradient(90deg, rgba(138,215,120,1) 0%, rgba(41,83,32,1) 10%, rgba(41,83,32,1) 50%, rgba(41,83,32,1) 90%, rgba(138,215,120,1) 100%);
+    overflow-x: hidden;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.line-1 {
+    height: 1px;
+    margin: auto;
+    width: 75%;
+    background: black;
+}
+.line-2 {
+    height: 1px;
+    margin: auto;
+    width: 75%;
+    background: black;
+}
+.vertical-line-left {
+    position: relative;
+    top: 2px; left: -225px;
+    margin: auto;
+    height: 1px;
+    width: 3.5%;
+    transform: rotate(90deg);
+    background: black;
+}
+.vertical-line-middle {
+    height: 1px;
+    margin: auto;
+    width: 3.5%;
+    transform: rotate(90deg);
+    background: black;
+}
+.vertical-line-right {
+    position: relative;
+    top: 0px; right: -200px;
+    margin: auto;
+    height: 1px;
+    width: 3.5%;
+    transform: rotate(90deg);
+    background: black;
+}
+.index {
+    position: relative;
+    top: -45px; left: 700px;
+    height: 1px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 75px;
+ 
+}
+.form {
+    position: relative;
+    top: -45px; right: -925px;
+    height: 1px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 75px;
+}
+.form-link-fpage {
+    position: relative;
+    top: -43px; right: -917px;
+    height: 1px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 75px;
+}
+.index-link-fpage {
+    position: relative;
+    top: -45px; left: 693px;
+    height: 1px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 75px;
+}
+.text {
+    position: relative;
+    left: 300px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+}
+
+.form-text {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: wheat;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 600px;
+}
+
+.box {
+    background-color: rgba(0,0,0, 0.3);
+    color: #fff;
+    margin: 0 auto;
+}
+
+.red-warning {
+    color: red;
+}
+
+
+
+@media only screen and (min-width: 1920px) {
+    .line-1 {
+        height: 1px;
+        margin: auto;
+        width: 75%;
+        background: black;
+    }
+    .line-2 {
+        height: 1px;
+        margin: auto;
+        width: 75%;
+        background: black;
+    }
+    .vertical-line-left {
+        position: relative;
+        top: 2px; left: -225px;
+        margin: auto;
+        height: 1px;
+        width: 3.5%;
+        transform: rotate(90deg);
+        background: black;
+    }
+    .vertical-line-middle {
+        height: 1px;
+        margin: auto;
+        width: 3.5%;
+        transform: rotate(90deg);
+        background: black;
+    }
+    .vertical-line-right {
+        position: relative;
+        top: 0px; right: -200px;
+        margin: auto;
+        height: 1px;
+        width: 3.5%;
+        transform: rotate(90deg);
+        background: black;
+    }
+    .index {
+        position: relative;
+        top: -45px; left: 738px;
+        height: 1px;
+        margin: auto;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 75px;
+     
+    }
+    .form {
+        position: relative;
+        top: -43px; right: -965px;
+        height: 1px;
+        margin: auto;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 75px;
+    }
+    .form-link-fpage {
+        position: relative;
+        top: -43px; right: -965px;
+        height: 1px;
+        margin: auto;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 75px;
+    }
+    .index-link-fpage {
+        position: relative;
+        top: -45px; left: 739px;
+        height: 1px;
+        margin: auto;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 75px;
+    }
+    .text {
+        position: relative;
+        left: 300px;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        margin: auto;
+    }
+  }
+
+  @media only screen and (min-width: 2560px) {
+    .line-1 {
+        height: 1px;
+        margin: auto;
+        width: 75%;
+        background: black;
+    }
+    .line-2 {
+        height: 1px;
+        margin: auto;
+        width: 75%;
+        background: black;
+    }
+    .vertical-line-left {
+        position: relative;
+        top: 2px; left: -225px;
+        margin: auto;
+        height: 1px;
+        width: 2.5%;
+        transform: rotate(90deg);
+        background: black;
+    }
+    .vertical-line-middle {
+        height: 1px;
+        margin: auto;
+        width: 2.5%;
+        transform: rotate(90deg);
+        background: black;
+    }
+    .vertical-line-right {
+        position: relative;
+        top: 0px; right: -200px;
+        margin: auto;
+        height: 1px;
+        width: 2.5%;
+        transform: rotate(90deg);
+        background: black;
+    }
+    .index {
+        position: relative;
+        top: -45px; left: 1058px;
+        height: 1px;
+        margin: auto;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 75px;
+     
+    }
+    .form {
+        position: relative;
+        top: -43px; right: -1284px;
+        height: 1px;
+        margin: auto;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 75px;
+    }
+    .form-link-fpage {
+        position: relative;
+        top: -42px; right: -1275px;
+        height: 1px;
+        margin: auto;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 75px;
+    }
+    .index-link-fpage {
+        position: relative;
+        top: -45px; left: 1050px;
+        height: 1px;
+        margin: auto;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 75px;
+    }
+    .text {
+        position: relative;
+        left: 600px;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        margin: auto;
+    }
+  }
