@@ -50,7 +50,7 @@
             For example - you want fast food, it only takes a few clicks away from getting what you want, rather than putting the time in cooking a healthy food that could make a <br>difference in your body in terms of the nutrients your body takes for it to be productive. 
             <br>
             <br>
-            For this reason, I want to create a form that allows you to fill in the form, this helps me to understand what kind of person you are, and it will be interesting to see where you would <br>buy healthy products from a website. What I mean by healthy products are essentially organic food, nutrients in the form of a capsule, etc. Anything that is considered as food and it’s <br>a product. Plus filling out the form will also help me to create a survey, so it would be highly appreciated if you could help me out by filling out the form!
+            I've created this form with some help, see if it works. Just keep in mind that this is for testing. Also, if you type your email, no one is receiving it, but that will change soon, <br>at least I hope anyway. 
             <br>
             <br>
             Here's a form below here:</p>
