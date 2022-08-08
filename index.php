@@ -44,7 +44,21 @@
         <div class="line-2"> </div>
         <br>
         <br>
-        <p class="text">Hi, my name is Khalid Jumah. This is the home page! :D</p>
+        <p class="text">Hi, my name is Khalid Jumah. 
+        <br>
+        <br>
+        Keep in mind that this website is not completed. I am simply using this to test things, try them out, see what they lead to. 
+        <br>
+        <br>
+        But yes, living healthy is so important. I know this because I have experienced it for a long time, and honestly, my consistency can be problematic. I use this as a reminder for myself that, yes, 
+        <br>
+        living healthy is really important, but so do taking baby steps. I would argue that mental wellbeing has to go in line with physical and spiritual wellbeings. Makes no sense to neglect one of them 
+        <br>
+        whatsoever.
+        <br>
+        <br>
+        Thank you for listening to my TED talk. Haha!
+        </p>
 
         <br><br>
 
